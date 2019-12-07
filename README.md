@@ -18,6 +18,10 @@ In order to activate this vitrual environment in the shell, run the following co
 `source env/bin/activate`
 
 To deactivate it run `deactivate`
+
+## Required Python Packages
+The file requirements.txt has the list of required python packages. Install the packages with the command: `pip install -r requirements.txt`
+
 ## Configure VSCode 
 ### Extensions
 Use the File -> Preferences -> Extensions menu option to open the extensions panel. Search for the extension name and push the green install button. You may have to reload VSCode. Install the following extensions:
